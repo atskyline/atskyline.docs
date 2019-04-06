@@ -4,6 +4,6 @@
 
 我现就职于[网速科技](https://wangsu.com/)，从事CDN底层软件开发。曾就职于[华为](https://www.huawei.com)负责基带芯片FPGA验证相关工作。如您想和我共事，可以通过邮箱atskyline@outlook.com或联系我。
 
-我的公众号`开发者阿朱(atskyline_wx)`，欢迎关注。
+我的公众号`开发者易辰(atskyline_wx)`，欢迎关注。
 
 ![](./assests/qrcode.jpg)
